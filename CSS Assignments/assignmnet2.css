@@ -1,0 +1,83 @@
+/* ===== GLOBAL STYLES ===== */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* FLEXBOX LAYOUTs */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1e1e2f;
+    color: white;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* GRID PRODUCT LIST */
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 30px;
+}
+
+.product-card {
+    background-color: white;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}
+
+/* ===== BOX MODEL ===== */
+.product-card img {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e1e2f;
+    color: white;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+/* Tablet */
+@media (max-width: 900px) {
+    .products {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    .header {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .products {
+        grid-template-columns: 1fr;
+    }
+    
+}
