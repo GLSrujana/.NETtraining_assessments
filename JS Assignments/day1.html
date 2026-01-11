@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Fundamentals Demo</title>
+    <link rel="stylesheet" href="day1.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 30px;
+        }
+        .box {
+            padding: 15px;
+            margin: 10px 0;
+            border: 2px solid #333;
+        }
+        .highlight {
+            background-color: #e0f2fe;
+        }
+    </style>
+</head>
+<body>
+
+<h1 id="title">JavaScript Fundamentals</h1>
+
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+<div class="box">Box 3</div>
+
+<button id="actionBtn">Click Me</button>
+
+<script src="day1.js"></script>
+
+<!-- FILTER CONTROLS -->
+<div class="controls">
+    <button data-category="all">All</button>
+    <button data-category="design">Design</button>
+    <button data-category="tech">Tech</button>
+    <button data-category="business">Business</button>
+</div>
+
+<!-- STATISTICS -->
+<div class="stats">
+    <p>Total Cards: <span id="totalCards">0</span></p>
+    <p>Total Views: <span id="totalViews">0</span></p>
+</div>
+
+<!-- BENTO GRID -->
+<section id="bentoGrid" class="bento-grid"></section>
+
+</body>
+</html>

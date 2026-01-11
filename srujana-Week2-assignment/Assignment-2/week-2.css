@@ -1,0 +1,65 @@
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.input {
+  width: 100%;
+  padding: 0.6rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+}
+
+.input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.3);
+}
+
+.btn-primary {
+  background-color: #2563eb;
+  color: white;
+  padding: 0.7rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #1e40af;
+}
+
+.th {
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.summary-card {
+  background: linear-gradient(135deg, #2563eb, #1e40af);
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  color: white;
+}
+
+.summary-text {
+  font-size: 1.1rem;
+}
+
+.summary-number {
+  font-size: 1.8rem;
+  font-weight: 700;
+}

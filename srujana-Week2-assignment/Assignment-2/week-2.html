@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Insurance Customer Dashboard</title>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="week-2.css">
+</head>
+
+<body class="bg-gray-100">
+
+<header class="bg-blue-700 text-white p-6">
+  <div class="max-w-7xl mx-auto">
+    <h1 class="text-3xl font-bold">SecureLife Insurance</h1>
+    <p class="opacity-90">Customer & Agent Dashboard</p>
+  </div>
+</header>
+
+<main class="max-w-7xl mx-auto p-6 space-y-12">
+
+  
+  <section>
+    <h2 class="section-title">Available Insurance Plans</h2>
+    <div id="plans" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+  </section>
+
+  <section class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+
+    <section class="card">
+      <h2 class="card-title">Customer Enquiry Form</h2>
+
+      <form id="customerForm" class="space-y-4">
+        <input id="name" class="input" placeholder="Customer Name" required>
+        <input id="age" type="number" class="input" placeholder="Age" required>
+        <input id="email" type="email" class="input" placeholder="Email" required>
+
+        <select id="policyType" class="input" required>
+          <option value="">Select Policy Type</option>
+        </select>
+
+        <div class="bg-gray-50 p-3 rounded text-sm">
+          Base Premium: ₹<span id="basePremium" class="font-semibold">0</span>
+        </div>
+
+        <div>
+          <label class="text-sm font-medium">
+            Coverage Amount (Lakhs):
+            <span id="coverageValue" class="font-semibold">1</span>
+          </label>
+          <input type="range" id="coverage" min="1" max="10" value="1" class="w-full">
+        </div>
+
+        <button class="btn-primary w-full">Submit Enquiry</button>
+      </form>
+    </section>
+
+
+    <section class="card">
+      <h2 class="card-title">Filter Customers</h2>
+
+      <input id="search" class="input mb-3" placeholder="Search by name">
+
+      <select id="filterPolicy" class="input">
+        <option value="">All Policies</option>
+      </select>
+    </section>
+
+    <section class="summary-card">
+      <h2 class="card-title text-white">Dashboard Summary</h2>
+
+      <p class="summary-text">
+        Total Customers:
+        <span id="totalCustomers" class="summary-number">0</span>
+      </p>
+
+      <p class="summary-text">
+        Total Premium:
+        ₹<span id="totalPremium" class="summary-number">0</span>
+      </p>
+
+      <p class="text-sm mt-4 opacity-80">
+        Avg approval time: 2–3 days
+      </p>
+    </section>
+
+  </section>
+
+
+  <section class="card">
+    <h2 class="card-title">Customer List</h2>
+
+    <div class="overflow-x-auto">
+      <table class="w-full border-collapse">
+        <thead class="bg-gray-100">
+          <tr>
+            <th class="th">Name</th>
+            <th class="th">Age</th>
+            <th class="th">Policy</th>
+            <th class="th">Coverage (L)</th>
+            <th class="th">Premium (₹)</th>
+          </tr>
+        </thead>
+        <tbody id="customerTable"></tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<footer class="bg-blue-900 text-white text-center p-4">
+  © 2025 SecureLife Insurance | All rights reserved.
+</footer>
+
+<script src="week-2.js"></script>
+</body>
+</html>

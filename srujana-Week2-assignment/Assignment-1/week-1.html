@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insurance Enquiry & Feedback</title>
+    <link rel="stylesheet" href="week-1.css">
+</head>
+<body>
+
+    <div class="form-container">
+        <h1>Insurance Enquiry & Feedback</h1>
+        <p>Please fill out the form below to submit your policy-related queries or feedback.</p>
+
+        <form id="enquiryForm">
+            <label>Full Name *</label>
+            <input type="text" name="fullname" required>
+
+            <label>Email *</label>
+            <input type="email" name="email" required>
+
+            <label>Mobile Number *</label>
+            <input type="tel" name="mobile" required>
+
+            <label>Request Type *</label>
+            <select name="requestType" required>
+                <option value="">-- Select --</option>
+                <option>Policy Enquiry</option>
+                <option>Claim Related</option>
+                <option>Feedback</option>
+            </select>
+
+            <label>Policy Type *</label>
+            <select name="policyType" required>
+                <option value="">-- Select --</option>
+                <option>Health Insurance</option>
+                <option>Life Insurance</option>
+                <option>Vehicle Insurance</option>
+                <option>Home Insurance</option>
+            </select>
+
+            <label>Message *</label>
+            <textarea rows="4" required></textarea>
+
+            <label>Experience Rating *</label>
+            <div class="rating">
+                <label><input type="radio" name="rating" value="1" required> 1</label>
+                <label><input type="radio" name="rating" value="2"> 2</label>
+                <label><input type="radio" name="rating" value="3"> 3</label>
+                <label><input type="radio" name="rating" value="4"> 4</label>
+                <label><input type="radio" name="rating" value="5"> 5</label>
+            </div>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <script src="week-1.js"></script>
+</body>
+</html>

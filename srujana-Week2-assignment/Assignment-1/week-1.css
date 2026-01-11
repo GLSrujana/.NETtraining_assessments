@@ -1,0 +1,102 @@
+/* Reset & Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eef2ff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Form Card */
+.form-container {
+    background-color: #ffffff;
+    max-width: 420px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* Headings */
+.form-container h1 {
+    text-align: center;
+    color: #1e3a8a;
+    margin-bottom: 10px;
+}
+
+.form-container p {
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Labels */
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    margin-top: 14px;
+}
+
+/* Inputs & Textarea */
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #cbd5e1;
+    outline: none;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #2563eb;
+}
+
+/* Rating */
+.rating {
+    margin-top: 8px;
+}
+
+.rating label {
+    font-weight: normal;
+    margin-right: 12px;
+}
+
+/* Button */
+button {
+    margin-top: 22px;
+    width: 100%;
+    padding: 12px;
+    background-color: #2563eb; /* Insurance brand blue */
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect */
+button:hover {
+    background-color: #1e40af;
+}
+
+/* Error Styling (Task 6) */
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 4px;
+}
