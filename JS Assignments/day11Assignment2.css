@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+#paymentSection {
+    padding: 30px;
+    border: 2px solid #0077cc;
+    background-color: #f0f8ff;
+    width: 300px;
+}
+
+#payBtn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#payBtn:hover {
+    background-color: #218838;
+    background-color: #f0f8ff;
+}
+
+#policyContainer {
+    padding: 30px;
+    border: 2px solid #0077cc;
+    background-color: #f9f9f9;
+    width: 300px;
+}
+
+#viewPolicyBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    border: none;
+}
+
+#viewPolicyBtn:hover {
+    background-color: #218838;
+    background-color: #f0f8ff;
+}
+
+.policyCard {
+    border: 2px solid #0077cc;
+    padding: 30px;
+    width: 300px;
+    background-color: #f9f9f9;
+}
+
+.deleteBtn {
+    padding: 10px 20px;
+    background-color: #28a745;
+    font-size: 16px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.deleteBtn:hover {
+    background-color: #218838;
+    background-color: #f0f8ff;
+}
+
+.claimsTable {
+    width: 400px;
+}
+
+.claimRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid #0077cc;
+    padding: 15px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    background-color: #f2f8ff;
+}
+
+.claimRow:hover {
+    background-color: #e0f0ff;
+}
+
+.approveBtn {
+    padding: 6px 12px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.approveBtn:hover {
+    background-color: #218838;
+    background-color: #f0f8ff;
+}

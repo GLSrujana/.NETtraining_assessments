@@ -1,28 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Exercise 1 - Event Bubbling</title>
-  <style>
-    #paymentSection {
-      border: 2px solid #333;
-      padding: 20px;
-      width: 250px;
-    }
-    button {
-      padding: 8px 14px;
-      cursor: pointer;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Insurance Payment</title>
+    <link rel="stylesheet" href="day11Assignment2.css">
 </head>
 <body>
 
-  <h2>Insurance Payment Page</h2>
+    <h2>Insurance Payment Page</h2>
 
-  <div id="paymentSection">
-    <button id="payBtn">Pay Premium</button>
-  </div>
+    <div id="paymentSection">
+        <button id="payBtn">Pay Premium</button>
+    </div>
 
-  <script src="day11Assignment2.js"></script>
+    <h2>Policy Details Page</h2>
+
+    <div id="policyContainer">
+        <button id="viewPolicyBtn">View Policy Details</button>
+    </div>
+
+ <h2>Insurance Dashboard</h2>
+
+    <div class="policyCard">
+        <p>Policy: Health Insurance</p>
+        <button class="deleteBtn">Delete Policy</button>
+    </div>
+
+        <h2>Insurance Claims Dashboard</h2>
+
+    <div class="claimsTable">
+
+        <div class="claimRow">
+            <span>Claim #101 - Vehicle Insurance</span>
+            <button class="approveBtn">Approve Claim</button>
+        </div>
+
+        <div class="claimRow">
+            <span>Claim #102 - Health Insurance</span>
+            <button class="approveBtn">Approve Claim</button>
+        </div>
+
+    </div>
+
+    <script src="day11Assignment2.js"></script>
 </body>
 </html>
