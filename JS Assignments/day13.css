@@ -1,0 +1,9 @@
+.card {
+ width: 300px;
+ padding: 20px;
+}
+
+.alert {
+    display: none;
+} 
+

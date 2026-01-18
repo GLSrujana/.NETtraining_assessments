@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product CRUD</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Product Management (CRUD)</h1>
+
+    <!-- CREATE / UPDATE FORM -->
+    <section>
+        <h2>Add / Update Product</h2>
+
+        <!-- Hidden ID (used during update) -->
+        <input type="hidden" id="productId">
+
+        <div>
+            <label>Title:</label><br>
+            <input type="text" id="title" placeholder="Enter product title">
+        </div><br>
+
+        <div>
+            <label>Price:</label><br>
+            <input type="number" id="price" placeholder="Enter price">
+        </div><br>
+
+        <div>
+            <label>Category:</label><br>
+            <input type="text" id="category" placeholder="Enter category">
+        </div><br>
+
+        <div>
+            <label>Description:</label><br>
+            <textarea id="description" placeholder="Enter description"></textarea>
+        </div><br>
+
+        <button id="addBtn">Add Product</button>
+        <button id="updateBtn" style="display:none;">Update Product</button>
+    </section>
+
+    <hr>
+
+    <!-- READ (DISPLAY PRODUCTS) -->
+    <section>
+        <h2>All Products</h2>
+
+        <table border="1" cellpadding="10" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Price</th>
+                    <th>Category</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody id="productTableBody">
+                <!-- Product rows will be inserted by JavaScript -->
+            </tbody>
+        </table>
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

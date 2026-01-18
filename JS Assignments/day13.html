@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form id="userForm">
+ <input type="text" id="username">
+ <button type="button" onclick="validate()">Submit</button>
+</form>
+
+<p class="msg">Hello User</p>
+<style>
+.msg {
+ color: blue;
+ font-size: 20px;
+}
+</style>
+
+<button id="btn">Click Me</button>
+
+<input type="text" id="email">
+<button onclick="check()">Check</button>
+
+<input type="checkbox" id="terms">
+<button onclick="submitForm()">Submit</button>
+
+
+<select id="plan">
+  <option>Select Plan</option>
+  <option>Health</option>
+  <option>Life</option>
+</select>
+<button onclick="checkPlan()">Apply</button>
+
+<script>
+function validate() {
+    let name = document.getElementById("username").value;
+    if (name == "") {
+    alert("Name required");
+    }
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("btn").onclick = function () {
+        alert("Clicked");
+    };
+});
+
+function check() {
+    let email = document.getElementById("email").value;
+    if (email === "") {
+        alert("Email required");
+    }
+}
+
+
+function submitForm() {
+    let terms = document.getElementById("terms");
+    if (terms.checked === false) {
+        alert("Accept terms");
+    }
+}
+
+function validateName() {
+    let name = document.getElementById("policyName").value;
+    if (name === "") {
+        alert("Policy holder name required");
+    }
+}
+
+function checkPlan() {
+    let plan = document.getElementById("plan").value;
+    if (plan === "Select Plan") {
+        alert("Please choose a plan");
+    }
+}
+
+</script>      
+</body>
+</html>

@@ -1,0 +1,81 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Online Banking Operations Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>🏦 Online Banking Operations Dashboard</h1>
+<input
+  id="searchInput"
+  type="text"
+  placeholder="Search by account holder name"
+/>
+
+
+<h3>Create New Account</h3>
+
+<form id="createAccountForm">
+  <input
+    type="text"
+    id="name"
+    placeholder="Account Holder Name"
+    required
+  />
+
+  <input
+    type="email"
+    id="email"
+    placeholder="Email"
+    required
+  />
+
+  <input
+    type="text"
+    id="branch"
+    placeholder="Branch (City)"
+    required
+  />
+
+  <button type="submit">Create Account</button>
+</form>
+
+<hr />
+
+
+<div id="loader" style="display:none; margin: 10px 0;">
+  ⏳ Loading accounts...
+</div>
+
+<div id="errorMsg" style="display:none; color:red; margin: 10px 0;">
+  Failed to load accounts. Please try again later.
+</div>
+
+
+<button onclick="sortByBalance()">Sort by Balance (High → Low)</button>
+
+<h3 id="totalBalance"></h3>
+
+
+
+<select id="cityFilter"></select>
+
+<table border="1" cellpadding="10">
+  <thead>
+    <tr>
+      <th>Account No</th>
+      <th>Account Holder</th>
+      <th>Email</th>
+      <th>Branch</th>
+      <th>Balance (₹)</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+
+  <tbody id="accountTable"></tbody>
+</table>
+
+
+<script src="script.js"></script>
+</body>
+</html>
