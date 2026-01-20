@@ -1,0 +1,19 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eef3ff;
+  padding: 20px;
+  position: relative;
+}
+
+.banner img {
+  position: absolute;
+  left: 20px;
+  height: 35px;
+}
+
+.banner h3 {
+  font-size: 20px;
+  font-weight: 600;
+}

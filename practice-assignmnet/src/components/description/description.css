@@ -1,0 +1,16 @@
+.description {
+  background-color: #f6f2ec;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.description h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.description p {
+  font-size: 16px;
+  color: #444;
+}
