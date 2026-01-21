@@ -1,0 +1,20 @@
+<h2>Calculator Service</h2>
+
+<input type="number" [(ngModel)]="num1">
+<input type="number" [(ngModel)]="num2">
+
+<button (click)="add()">Add</button>
+<button (click)="subtract()">Subtract</button>
+
+<p>Result: {{ result }}</p>
+
+<hr>
+
+<h2>Message Service</h2>
+
+<input type="text" [(ngModel)]="message">
+<button (click)="addMessage()">Add Message</button>
+
+<ul>
+  <li *ngFor="let msg of messages">{{ msg }}</li>
+</ul>
