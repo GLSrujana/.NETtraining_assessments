@@ -1,0 +1,12 @@
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\bin\Debug\net8.0\Weekly Assignment-5CL.deps.json
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\bin\Debug\net8.0\Weekly Assignment-5CL.dll
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\bin\Debug\net8.0\Weekly Assignment-5CL.pdb
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.AssemblyInfoInputs.cache
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.AssemblyInfo.cs
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.sourcelink.json
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.dll
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\refint\Weekly Assignment-5CL.dll
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\Weekly Assignment-5CL.pdb
+C:\Users\Admin\NETproj\blank\Weekly Assignment-5CL\obj\Debug\net8.0\ref\Weekly Assignment-5CL.dll
