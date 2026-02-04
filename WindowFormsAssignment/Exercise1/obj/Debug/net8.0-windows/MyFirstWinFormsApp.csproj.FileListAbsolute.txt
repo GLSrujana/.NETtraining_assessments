@@ -1,0 +1,17 @@
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\bin\Debug\net8.0-windows\MyFirstWinFormsApp.exe
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\bin\Debug\net8.0-windows\MyFirstWinFormsApp.deps.json
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\bin\Debug\net8.0-windows\MyFirstWinFormsApp.runtimeconfig.json
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\bin\Debug\net8.0-windows\MyFirstWinFormsApp.dll
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\bin\Debug\net8.0-windows\MyFirstWinFormsApp.pdb
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.Form1.resources
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.AssemblyInfo.cs
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.sourcelink.json
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.dll
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\refint\MyFirstWinFormsApp.dll
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.pdb
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\MyFirstWinFormsApp.genruntimeconfig.cache
+C:\Users\Admin\NETproj\blank\MyFirstWinFormsApp\obj\Debug\net8.0-windows\ref\MyFirstWinFormsApp.dll

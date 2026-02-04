@@ -1,0 +1,17 @@
+C:\Users\Admin\NETproj\blank\UI_Assignment1\bin\Debug\net8.0-windows\UI_Assignment1.exe
+C:\Users\Admin\NETproj\blank\UI_Assignment1\bin\Debug\net8.0-windows\UI_Assignment1.deps.json
+C:\Users\Admin\NETproj\blank\UI_Assignment1\bin\Debug\net8.0-windows\UI_Assignment1.runtimeconfig.json
+C:\Users\Admin\NETproj\blank\UI_Assignment1\bin\Debug\net8.0-windows\UI_Assignment1.dll
+C:\Users\Admin\NETproj\blank\UI_Assignment1\bin\Debug\net8.0-windows\UI_Assignment1.pdb
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.Form1.resources
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.csproj.GenerateResource.cache
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.AssemblyInfo.cs
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.sourcelink.json
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.dll
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\refint\UI_Assignment1.dll
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.pdb
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\UI_Assignment1.genruntimeconfig.cache
+C:\Users\Admin\NETproj\blank\UI_Assignment1\obj\Debug\net8.0-windows\ref\UI_Assignment1.dll
