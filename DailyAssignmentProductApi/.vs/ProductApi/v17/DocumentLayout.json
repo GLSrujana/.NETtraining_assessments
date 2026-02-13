@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\NETproj\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|c:\\users\\admin\\netproj\\productapi\\productapi\\controllers\\productitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|c:\\users\\admin\\netproj\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|c:\\users\\admin\\netproj\\productapi\\productapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|c:\\users\\admin\\netproj\\productapi\\productapi\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|c:\\users\\admin\\netproj\\productapi\\productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2ADF8F-5607-49F4-9F30-EC306CE39928}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Controllers\\ProductItemsController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductItemsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Controllers\\ProductItemsController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:20:54.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:10:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:07:41.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Models\\ProductContext.cs",
+              "RelativeToolTip": "ProductApi\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:05:58.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Models\\ProductItem.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Models\\ProductItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\NETproj\\ProductApi\\ProductApi\\Models\\ProductItem.cs",
+              "RelativeToolTip": "ProductApi\\Models\\ProductItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:03:44.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
