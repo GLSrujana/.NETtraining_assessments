@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\data\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\migrations\\20260217052351_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\migrations\\20260217052351_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\seedingapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\seedingapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\models\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\models\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|c:\\users\\admin\\onedrive\\desktop\\seedingdemo\\seedingapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D112F9B-A36B-420F-A9C6-7DB15AD65183}|SeedingApi\\SeedingApi.csproj|solutionrelative:seedingapi\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "SeedingApi\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:26:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedingApi",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\SeedingApi.csproj",
+              "RelativeDocumentMoniker": "SeedingApi\\SeedingApi.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\SeedingApi.csproj",
+              "RelativeToolTip": "SeedingApi\\SeedingApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T05:24:47.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260217052351_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Migrations\\20260217052351_mig1.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Migrations\\20260217052351_mig1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Migrations\\20260217052351_mig1.cs",
+              "RelativeToolTip": "SeedingApi\\Migrations\\20260217052351_mig1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:23:52.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Program.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Program.cs",
+              "RelativeToolTip": "SeedingApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T05:07:23.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SeedingApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\appsettings.json",
+              "RelativeToolTip": "SeedingApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T05:18:46.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Data\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Data\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Data\\EFCoreDbContext.cs",
+              "RelativeToolTip": "SeedingApi\\Data\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:47:25.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\City.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\City.cs",
+              "RelativeToolTip": "SeedingApi\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:46:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\States.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Models\\States.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\States.cs",
+              "RelativeToolTip": "SeedingApi\\Models\\States.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:45:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "SeedingApi\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\SeedingDemo\\SeedingApi\\Models\\Country.cs",
+              "RelativeToolTip": "SeedingApi\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T04:43:52.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

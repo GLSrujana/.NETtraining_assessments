@@ -1,0 +1,6 @@
+@ProdCatAPIDemo_HostAddress = http://localhost:5266
+
+GET {{ProdCatAPIDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,152 @@
+[
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsuranceCategoriesController",
+    "Method": "GetCategories",
+    "RelativePath": "api/InsuranceCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[InsuranceCatAPIDemo.Models.InsuranceCategory, InsuranceCatAPIDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsuranceCategoriesController",
+    "Method": "PostCategory",
+    "RelativePath": "api/InsuranceCategories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "InsuranceCatAPIDemo.Models.InsuranceCategory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InsuranceCatAPIDemo.Models.InsuranceCategory",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsuranceCategoriesController",
+    "Method": "GetCategory",
+    "RelativePath": "api/InsuranceCategories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InsuranceCatAPIDemo.Models.InsuranceCategory",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsuranceCategoriesController",
+    "Method": "DeleteCategory",
+    "RelativePath": "api/InsuranceCategories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsurancePoliciesController",
+    "Method": "GetPolicies",
+    "RelativePath": "api/InsurancePolicies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[InsuranceCatAPIDemo.Models.InsurancePolicy, InsuranceCatAPIDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsurancePoliciesController",
+    "Method": "PostPolicy",
+    "RelativePath": "api/InsurancePolicies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "policy",
+        "Type": "InsuranceCatAPIDemo.Models.InsurancePolicy",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "InsuranceCatAPIDemo.Models.InsurancePolicy",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "InsuranceCatAPIDemo.Controllers.InsurancePoliciesController",
+    "Method": "DeletePolicy",
+    "RelativePath": "api/InsurancePolicies/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCatAPIDemo", "ProdCatAPIDemo\InsuranceCatAPIDemo.csproj", "{191BB6BB-787A-4A93-A05F-A6CD709A2BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191BB6BB-787A-4A93-A05F-A6CD709A2BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191BB6BB-787A-4A93-A05F-A6CD709A2BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191BB6BB-787A-4A93-A05F-A6CD709A2BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191BB6BB-787A-4A93-A05F-A6CD709A2BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F018ECF2-0E5C-48C3-A078-E802951DBC4A}
+	EndGlobalSection
+EndGlobal
